@@ -14,3 +14,4 @@ hello_world
 hello_world
 hot_fix modify
 netspot_change
+git_clone_change
